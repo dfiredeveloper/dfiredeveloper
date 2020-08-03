@@ -14,8 +14,6 @@ Currently working at [@KogiHacks](https://github.com/kogihacks)
 
 ![Ilemona's Github Stats](https://github-readme-stats.vercel.app/api?username=dfiredeveloper&show_icons=true)
 
-## 💻 Uses
-
 
 ## 🤷 What else?
 
