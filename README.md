@@ -2,7 +2,7 @@
 
 I am a Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
 
-Currently working at [@KogiHacks](https://github.com/kogihacks)
+Currently building stuffs at [@IgalaDigital](https://github.com/igaladigital)
 
 - 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello.
 - ⚡ Fun fact: I have written [37, 047](https://sourcerer.io/dfiredeveloper) lines of code so far.
