@@ -5,7 +5,7 @@ I am a Software Developer that develops intuitive Web and Mobile applications th
 Currently building stuffs at [@IgalaDigital](https://github.com/igaladigital)
 
 - 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello.
-- ⚡ Fun fact: I have written [37, 047](https://sourcerer.io/dfiredeveloper) lines of code so far.
+- ⚡ Fun fact: I have written [973, 047](https://sourcerer.io/dfiredeveloper) lines of code so far.
 - 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
 - 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), React & RN and Dart (Flutter).
 
