@@ -2,12 +2,12 @@
 
 I am a Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
 
-Currently building stuffs at [@IgalaDigital](https://github.com/igaladigital)
+Currently building stuffs at [@DoorWay](https://github.com/doorwayHQ)
 
 - 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello.
-- ⚡ Fun fact: I have written [973, 047](https://sourcerer.io/dfiredeveloper) lines of code so far.
+- ⚡ Fun fact: I have written [1, 973, 047](https://sourcerer.io/dfiredeveloper) lines of code so far.
 - 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
-- 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), React & RN and Dart (Flutter).
+- 💬 Ask me about: Blockchain, Solidity, JavaScript, PHP (Laravel, WordPress), React & RN and Dart (Flutter).
 
 
 ## 🔓 Open Source Contributions
