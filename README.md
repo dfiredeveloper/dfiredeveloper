@@ -12,7 +12,8 @@ Currently building stuffs at [@Stasha](https://github.com/StashaHQ)
 
 ## 🔓 Open Source Contributions
 
-![Ilemona's Github Stats](https://github-readme-stats.vercel.app/api?username=dfiredeveloper&show_icons=true)
+![Ilemona's Github Stats](https://github-readme-stats.vercel.app/api?username=dfiredeveloper&show_icons=true)](https://github.com/dfiredeveloper/profile)
+
 
 
 ## 🤷 What else?
