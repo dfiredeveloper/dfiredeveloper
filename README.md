@@ -26,3 +26,5 @@ Currently building stuffs at [@Stasha](https://github.com/StashaHQ)
 - [Codepen](https://codepen.io/dfiredeveloper)
 - [Facebook](https://facebook.com/achimugu.i)
 - [Instagram](https://www.instagram.com/biglems_)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dfiredeveloper" alt="GitHub Streak" /></a>
