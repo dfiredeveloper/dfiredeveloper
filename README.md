@@ -2,7 +2,7 @@
 
 I am a Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
 
-Currently building stuffs at [@Stasha](https://github.com/areafoods)
+Currently building stuffs at [@AreaFoods](https://github.com/areafoods)
 
 - 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello.
 - 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
